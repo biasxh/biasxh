@@ -23,7 +23,7 @@
 
 <h2> 👩 Sobre Mim </h2>
 
-<p>Oi! Eu sou a <strong>Beatriz</strong>, tenho <strong>16 anos</strong>, estudo no <strong>2º ano do Ensino Médio</strong> e também sou estudante de <strong>desenvolvimento web e programação</strong>. Estou aprendendo e praticando <strong>HTML, CSS e JavaScript</strong> para construir páginas e projetos cada vez mais completos.</p>
+<p>Oi! Eu sou a <strong>Beatriz</strong>, tenho <strong>17 anos</strong>, estudo no <strong>3º ano do Ensino Médio</strong> e também sou estudante de <strong>desenvolvimento web e programação</strong>. Estou aprendendo e praticando <strong>HTML, CSS e JavaScript</strong> para construir páginas e projetos cada vez mais completos.</p>
 
 <p>✨ Atualmente focada em lógica de programação, responsividade e projetos práticos.</p>
 
